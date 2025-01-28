@@ -12,3 +12,10 @@ analyzing user behavior, transaction patterns, and device telemetry, it can dete
 access, phishing attempts, or deepfake attacks. This solution enhances security while ensuring a seamless user
 experience for mobile banking and payment platforms, protecting users from sophisticated scams like those used in
 Jamtara-style fraud schemes.
+
+
+Spam Call Detection and Prevention Features:
+Analyze call metadata, behavioural patterns, and frequency to detect suspicious activities.
+Use NLP to process and analyze call transcripts for fraud indicators, such as phishing attempts or financial scam
+keywords.
+Implement real-time call blocking or user alerts to mitigate risks.
